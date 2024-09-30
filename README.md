@@ -27,7 +27,7 @@ The project was developed through multiple iterations, gradually refining the ap
 
 ## **Role in Finance Club Quant Team**
 
-This project was part of a [larger initiative](https://github.com/DFIC-Quant-Fund/CompVision-W2024) with the Quant Group at the [**DeGroote Finance and Investments Council**](https://www.degrootefinance.ca/). The team worked on various aspects of algorithmic trading strategies, and I was responsible for **refining the machine learning model** in this project. While other team members focused on different aspects of the project, such as supplying data, refining the strategy and backtesting, I was tasked with creating the data pipeline and developing an accurate model. 
+The team worked on various aspects of this trading strategy, but I was responsible for **refining the machine learning model** in this project. While other team members focused on different aspects of the project, such as supplying data, refining the strategy and backtesting, I was tasked with creating the data pipeline and developing an accurate model. 
 
 Although the project is currently **unfinished**, the groundwork has been laid to build a robust, data-driven model for predicting stock market trends using machine learning.
 
