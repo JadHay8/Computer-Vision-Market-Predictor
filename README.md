@@ -2,7 +2,9 @@
 
 This project aims to predict stock price movements based on candlestick chart patterns using machine learning techniques. By leveraging Python libraries such as `yfinance`, `mplfinance`, and TensorFlow, the project builds a pipeline to visualize stock data, create candlestick charts, and train a Convolutional Neural Network (CNN) to classify price movements.
 
-Note: this project is not fully complete. In addition, as you scroll through the notebook file you will see the process of iteratively learning and improving that I employed while working on this semester-long project. As a result, some aspects of the model change as you scroll down.
+Note: 
+This project was part of a [larger initiative](https://github.com/DFIC-Quant-Fund/CompVision-W2024) with the [Quant Group](https://www.degrootefinance.ca/quant-group) at the [**DeGroote Finance and Investments Council**](https://www.degrootefinance.ca/), however it is not fully complete. This repository is to clearly illustrate my particular contributions to the project.
+In addition, as you scroll through the notebook file you will see the process of iteratively learning and improving that I employed while working on this semester-long project. As a result, some aspects of the model and pipeline naturally changed over time (as can be seen when scrolling through the notebook).
 
 ## **Project Overview**
 
