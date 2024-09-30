@@ -2,6 +2,8 @@
 
 This project aims to predict stock price movements based on candlestick chart patterns using machine learning techniques. By leveraging Python libraries such as `yfinance`, `mplfinance`, and TensorFlow, the project builds a pipeline to visualize stock data, create candlestick charts, and train a Convolutional Neural Network (CNN) to classify price movements.
 
+Note: this project is not fully complete. In addition, as you scroll through the notebook file you will see the process of iteratively learning and improving that I employed while working on this semester-long project. As a result, some aspects of the model change as you scroll down.
+
 ## **Project Overview**
 
 The project was developed through multiple iterations, gradually refining the approach to improve accuracy and performance:
